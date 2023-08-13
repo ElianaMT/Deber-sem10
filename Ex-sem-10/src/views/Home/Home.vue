@@ -1,6 +1,5 @@
 <template>
    <h1 class="title">Banco de Talentos</h1>
-
   
 </template>
 
